@@ -69,6 +69,12 @@
 
 <p style="text-align:center;"><img src="../../image/foundation/judgSeventhInversion.jpg" width="65%" align="middle" /></p>
 
+## 其他和弦
+
+<p style="text-align:center;"><img src="../../image/foundation/otherChord.jpg" width="75%" align="middle" /></p>
+
+
+
 # 和弦标记
 
 ## 和弦固定标记法
@@ -81,6 +87,63 @@
 
 - slash和弦：和弦名 / 低音。用于表示三和弦与七和弦的转位和弦
     <p style="text-align:center;"><img src="../../image/foundation/slash.jpg" width="75%" align="middle" /></p>
+
+- 九音、十一音、十三音：在和弦音生成原理中，9 代表与根音呈大九度的音；11 代表与根音呈纯十一度的音；13 代表与根音呈大十三度的音；若有升降号，那么就对音程进行升降，例如 b13 代表与根音呈小十三度的音。
+    <p style="text-align:center;"><img src="../../image/foundation/externChord.jpg" width="75%" align="middle" /></p>
+
+    - 直接写 9, 11, 13 表示是包含了所有的三度叠加音，例如 G13 是包含了根音、三音、五音、七音、九音、十一音、十三音
+    - 有 () 或者 add 符号，则表示原则上添加一个音
+    - 和弦优先省略五音
+
+- 加音和弦：在某一个和弦上添加一个音
+    <p style="text-align:center;"><img src="../../image/foundation/addChord.jpg" width="25%" align="middle" /></p>
+    <p style="text-align:center;"><img src="../../image/foundation/addChords.jpg" width="60%" align="middle" /></p>
+
+- 挂留和弦（sus和弦）：当前和弦中的某一个音占用了下一个和弦中某个音的时值，并且这个音被推迟演奏
+    <p style="text-align:center;"><img src="../../image/foundation/suspension.jpg" width="50%" align="middle" /></p>
+
+    经过使用尝试，只剩下两种形式：
+    - **sus4(sus)**：纯四度音挤掉三音，三音后面可以不出现
+    - **sus2**：大二度音挤掉三音，三音在后面可以不出现
+
+- 省略和弦（omit和弦）: 省略和弦中的某个音
+    <p style="text-align:center;"><img src="../../image/foundation/omitChord.jpg" width="75%" align="middle" /></p>
+
+## 和弦功能级数标记法
+
+### 级数
+
+对于自然大调中的每个音阶可以使用罗马数字进行标记
+<p style="text-align:center;"><img src="../../image/foundation/ModeSymbol.jpg" width="75%" align="middle" /></p>
+
+以上面的调内音阶组合出和弦
+
+<p style="text-align:center;"><img src="../../image/foundation/ModeChord.jpg" width="75%" align="middle" /></p>
+
+换一个调式
+
+<p style="text-align:center;"><img src="../../image/foundation/ModeOther.jpg" width="75%" align="middle" /></p>
+
+### 功能
+
+和弦根据特性，可以划分为三个功能，和弦的变化一般就是在这三个功能之间来回切换
+
+<p style="text-align:center;"><img src="../../image/foundation/property.jpg" width="50%" align="middle" /></p>
+
+然后根据功能对调式进行标记
+
+<p style="text-align:center;"><img src="../../image/foundation/ModeProperty.jpg" width="75%" align="middle" /></p>
+
+## 特殊记号
+
+- 六和弦具有两种含义
+    <p style="text-align:center;"><img src="../../image/foundation/chord6.jpg" width="50%" align="middle" /></p>
+
+- 六九和弦：三和弦 + 大六度音 + 大九度音，即 Xadd6add9
+    <p style="text-align:center;"><img src="../../image/foundation/chord69.jpg" width="25%" align="middle" /></p>
+
+- 五和弦：就是三和弦省略了三音，即 Xomit3
+    <p style="text-align:center;"><img src="../../image/foundation/chord5.jpg" width="50%" align="middle" /></p>
 
 # 广义和弦
 
