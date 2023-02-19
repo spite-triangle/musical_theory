@@ -142,7 +142,7 @@
 
 ## 作用
 
-> [tip]
+> [!tip]
 > 调号可以用来确定简谱中`1234567`表示的是那些音级
 
 <p style="text-align:center;"><img src="../../image/foundation/toneMark.jpg" width="10%" align="middle" /></p>
